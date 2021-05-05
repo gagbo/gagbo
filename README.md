@@ -1,7 +1,9 @@
 # Gerry Agbobada
 
 I'm a backend software engineer, and this is my github profile. I mostly like Rust and Schemes, but I'm currently 
-enjoying Scala and I have good experience in C++ as well
+enjoying Scala and I have good experience in C++ as well.
+
+Sometimes, I [blog](https://gagbo.net). It is quite rare though.
 
 I mostly use it for work, and to contribute to Emacs ecosystem through
 [Doom](https://github.com/hlissner/doom-emacs) or packages like [consult-lsp](https://github.com/gagbo/consult-lsp).
