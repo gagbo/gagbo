@@ -1,7 +1,7 @@
 # Gerry Agbobada
 
-I'm a backend software engineer currently working at [Sun Zu
-Lab](https://sunzulab.com), and this is my github profile. I mostly like Rust
+I'm a backend software engineer currently in-between jobs, and this is my github
+profile. I mostly like Rust
 and Schemes, but I have good experience in C++ and Python as well, trying to
 embed the languages I like working with inside the ones I like hacking with.
 
@@ -18,6 +18,10 @@ I think my most fun projects are:
 - [R7.rs](https://git.sr.ht/~gagbo/rseven): a Rust hosted R7RS scheme (WIP, and interpreter only for now)
 - [tree-sitter-org](https://github.com/gagbo/tree-sitter-org): a tentative to make a tree-sitter grammar
   for org-mode syntax. Currently it's in a "waiting" state until org grammar is a little clarified
+  
+I am also getting my feet wet with front-development with [my fork](https://git.sr.ht/~gagbo/rustpad) of
+[Rustpad](https://github.com/ekzhang/rustpad) which adds integration with
+[Piston](https://github.com/engineer-man/piston) for shared remote code execution.
 
 [![Metrics](https://github.com/gagbo/gagbo/blob/main/github-metrics.svg)](https://gagbo.net)
 
