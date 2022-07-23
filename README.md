@@ -1,6 +1,6 @@
 # Gerry Agbobada
 
-I'm a backend software engineer currently in-between jobs, and this is my github
+I'm a backend software engineer, and this is my github
 profile. I mostly like Rust
 and Schemes, but I have good experience in C++ and Python as well, trying to
 embed the languages I like working with inside the ones I like hacking with.
