@@ -1,9 +1,11 @@
 # Gerry Agbobada
 
-I'm a backend software engineer, and this is my github
+I'm a backend software engineer currently working at [Fiberplane](https://github.com/fiberplane),
+and this is my github
 profile. I mostly like Rust
 and Schemes, but I have good experience in C++ and Python as well, trying to
-embed the languages I like working with inside the ones I like hacking with.
+embed the languages I like working with inside the ones I like hacking with. That
+makes Rust and Web Assembly really nice technologies to explore!
 
 Sometimes, I [blog](https://gagbo.net). It is quite rare though.
 
@@ -21,7 +23,8 @@ I think my most fun projects are:
   
 I am also getting my feet wet with front-development with [my fork](https://git.sr.ht/~gagbo/rustpad) of
 [Rustpad](https://github.com/ekzhang/rustpad) which adds integration with
-[Piston](https://github.com/engineer-man/piston) for shared remote code execution.
+[Piston](https://github.com/engineer-man/piston) for shared remote code execution. It is currently hosted
+live on [pad.gagbo.net](https://pad.gagbo.net).
 
 [![Metrics](https://github.com/gagbo/gagbo/blob/main/github-metrics.svg)](https://gagbo.net)
 
