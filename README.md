@@ -1,6 +1,6 @@
 # Gerry Agbobada
 
-I'm a backend software engineer currently working at [Fiberplane](https://github.com/fiberplane),
+I'm a backend software engineer currently working at [Tsuga](https://github.com/tsuga-dev),
 and this is my github
 profile. I mostly like Rust
 and Schemes, but I have good experience in C++ and Python as well, trying to
@@ -17,14 +17,14 @@ tree-sitter test](https://github.com/gagbo/org-to-tree-sitter-corpus).
 I think my most fun projects are:
 - [Xile](https://github.com/gagbo/xile): draft of a front-end for
   [Xi editor](https://github.com/xi-editor/xi-editor), written in Guile Scheme
-- [R7.rs](https://git.sr.ht/~gagbo/rseven): a Rust hosted R7RS scheme (WIP, and interpreter only for now)
+- [R7.rs](https://gitlab.com/gagbo/rseven): a Rust hosted R7RS scheme (WIP, and interpreter only for now)
 - [tree-sitter-org](https://github.com/gagbo/tree-sitter-org): a tentative to make a tree-sitter grammar
   for org-mode syntax. Currently it's in a "waiting" state until org grammar is a little clarified
   
-I am also getting my feet wet with front-development with [my fork](https://git.sr.ht/~gagbo/rustpad) of
+I am also getting my feet wet with front-development with [my fork](https://gitlab.com/gagbo/rustpad) of
 [Rustpad](https://github.com/ekzhang/rustpad) which adds integration with
 [Piston](https://github.com/engineer-man/piston) for shared remote code execution. It is currently hosted
-live on [pad.gagbo.net](https://pad.gagbo.net).
+live on [pad.gagbo.net](httlab.coma.gagbo.net).
 
 [![Metrics](https://github.com/gagbo/gagbo/blob/main/github-metrics.svg)](https://gagbo.net)
 
